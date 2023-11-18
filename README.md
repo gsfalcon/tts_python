@@ -1,6 +1,6 @@
 # Text-to-Speech Python Converter 🎙️
 
-![Text-to-Speech Python Converter]([link_para_uma_imagem](https://amalgjose.files.wordpress.com/2021/04/texttospeech.png))
+![Text-to-Speech Python Converter](https://amalgjose.files.wordpress.com/2021/04/texttospeech.png)
 
 Bem-vindo ao repositório **tts_python**! Este projeto incrível permite que você converta texto em arquivos de áudio no formato .mp3, proporcionando uma experiência única e personalizada de audição. Transforme seus textos favoritos em narrações envolventes e dê vida às palavras!
 
