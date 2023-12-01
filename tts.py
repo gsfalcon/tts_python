@@ -14,3 +14,4 @@ print("\nArquivo de áudio salvo em: 'tts_python/audio_{}.mp3'\n".format(idGen))
 
 
 #remover line breaks and paragraph breaks no input text
+
